@@ -20,7 +20,9 @@ An interactive, two-player terminal-based Tic Tac Toe game written in Python and
 The board grid maps directly to your keyboard's numpad:
 
 7 | 8 | 9
+
 4 | 5 | 6
+
 1 | 2 | 3
 
 ### Game Setup & Rules
